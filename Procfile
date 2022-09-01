@@ -1,1 +1,1 @@
-worker: blm start
+worker: npm start
